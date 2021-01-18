@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>茶馆日记</title>
   
-  
+  <subtitle>馆长</subtitle>
   <link href="http://teawiner.github.io/atom.xml" rel="self"/>
   
   <link href="http://teawiner.github.io/"/>

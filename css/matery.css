@@ -1,3 +1,4 @@
+
 /*全局基础样式*/
 /*小屏幕下(手机类)的样式*/
 @media only screen and (max-width: 601px) {
@@ -550,10 +551,11 @@ header .go-back i {
     height: 40vh !important;
 }
 
-.bg-cover:after {
+/*.bg-cover:after {
     -webkit-animation: rainbow 60s infinite;
     animation: rainbow 60s infinite;
 }
+*/
 
 .bg-cover:before,
 .bg-cover:after {

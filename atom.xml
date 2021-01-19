@@ -6,7 +6,7 @@
   <link href="http://teawiner.github.io/atom.xml" rel="self"/>
   
   <link href="http://teawiner.github.io/"/>
-  <updated>2021-01-18T13:42:31.157Z</updated>
+  <updated>2021-01-19T08:28:15.985Z</updated>
   <id>http://teawiner.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://teawiner.github.io/2021/01/19/net/"/>
+    <id>http://teawiner.github.io/2021/01/19/net/</id>
+    <published>2021-01-19T08:10:07.787Z</published>
+    <updated>2021-01-19T08:28:15.985Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="网站搭建"><a href="#网站搭建" class="headerlink" title="网站搭建"></a>网站搭建</h1><p>注意了，像Git这种服务器在国外的东西，它的官网下载这个软件会非常慢，建议直接在百度上搜索git下载与安装，各种软件园都能直接快速下载，留一下版本最好不要太旧就行。  </p><p>Markdown 段落没有特殊的格式，直接编写文字就好，<strong>段落的换行是使用两个以上空格加上回车</strong>。</p><p><em>我是斜体</em></p><p><strong>我是粗体</strong></p><p><strong><em>我既是斜体也是粗体</em></strong></p><ol><li>nodejs , git环境的搭建：</li><li><a href="https://blog.csdn.net/qq_43285335/article/details/90696126">nodejs搭建教程:</a></li><li>注意了，像Git这种服务器在国外的东西，它的官网下载这个软件会非常慢，建议直接在百度上搜索git下载与安装，各种软件园都能直接快速下载，留一下版本最好不要太旧就行。</li><li><a href="https://www.cnblogs.com/xueweisuoyong/p/11914045.html">git搭建教程：</a></li><li><a href="https://jingyan.baidu.com/article/e8cdb32b0ce12137042bad51.html">补充参考文档（可能你会用到）：</a></li><li><a href="https://www.cnblogs.com/luyuandatabase/p/12145707.html">配置淘宝云</a> </li></ol><blockquote><p>最外层 </p><blockquote><p>第二成</p><ul><li>武学</li></ul></blockquote></blockquote><p>‘print()’ 函数</p><p>​        <a href="www.baidu.com"></a></p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Demo01MethodOverload</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line">        System.out.println(sum(<span class="number">20</span>,<span class="number">30</span>,<span class="number">40</span>,<span class="number">50</span>));</span><br><span class="line"></span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">int</span> <span class="title">sum</span><span class="params">(<span class="keyword">int</span> a, <span class="keyword">int</span> b)</span></span>&#123;</span><br><span class="line">            <span class="keyword">return</span> a+b;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">int</span> <span class="title">sum</span><span class="params">(<span class="keyword">double</span> a, <span class="keyword">double</span> b ,<span class="keyword">double</span> c)</span></span>&#123;</span><br><span class="line">        <span class="keyword">return</span> (<span class="keyword">int</span>)(a+b+c);</span><br><span class="line">    &#125;</span><br><span class="line">   </span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">int</span> <span class="title">sum</span><span class="params">(<span class="keyword">int</span> a, <span class="keyword">int</span> b ,<span class="keyword">int</span> c, <span class="keyword">int</span> d)</span></span>&#123;</span><br><span class="line">        <span class="keyword">return</span> a+b+c+d;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;网站搭建&quot;&gt;&lt;a href=&quot;#网站搭建&quot; class=&quot;headerlink&quot; title=&quot;网站搭建&quot;&gt;&lt;/a&gt;网站搭建&lt;/h1&gt;&lt;p&gt;注意了，像Git这种服务器在国外的东西，它的官网下载这个软件会非常慢，建议直接在百度上搜索git下载与安装，各种软件园都能直</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title></title>
